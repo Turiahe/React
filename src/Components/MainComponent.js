@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Route } from 'react-router-dom';
 
 import Menu from './MenuComponent';
-   import DishDetail from './DishDetaiComponent';
+import DishDetail from './DishDetaiComponent';
 import Footer from './FooterComponent';
 import Header from './HeaderComponent';
 import { DISHES } from '../shared/dishes';
